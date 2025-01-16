@@ -1,6 +1,8 @@
 # pqr
 Penalized Quantile regression with fixed effects Use pqr (pqrfe) With (In) R Software
 
+https://www.youtube.com/watch?v=9EKF4XpsviY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
